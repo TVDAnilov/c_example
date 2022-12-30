@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\TVDanilov\Desktop\попытка чему то научиться\Практика по Си\Source_example\Hello_World\Hello_World\main.c(4): warning C4013: printf: нет определения; предполагается "extern" с возвратом типа "int"
+main.obj : error LNK2019: ёё√ыър эр эхЁрчЁх°хээ√щ тэх°эшщ ёшьтюы _printf т ЇєэъЎшш _main
+C:\Users\TVDanilov\Desktop\яюя√Єър ўхьє Єю эрєўшЄ№ё \╧ЁръЄшър яю ╤ш\Source_example\Hello_World\Debug\Hello_World.exe : fatal error LNK1120: эхЁрчЁх°хээ√ї тэх°эшї ¤ыхьхэЄют: 1

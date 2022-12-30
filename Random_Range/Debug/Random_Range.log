@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\TVDanilov\Desktop\попытка чему то научиться\Практика по Си\Source_example\Random_Range\main.c(8): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Random_Range.vcxproj -> C:\Users\TVDanilov\Desktop\попытка чему то научиться\Практика по Си\Source_example\Random_Range\Debug\Random_Range.exe

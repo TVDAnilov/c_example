@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "bar.h": "c",
+        "foo.h": "c",
+        "main.h": "c",
+        "stdio.h": "c",
+        "conio.h": "c",
+        "_mingw.h": "c",
+        "w32api.h": "c"
+    }
+}
